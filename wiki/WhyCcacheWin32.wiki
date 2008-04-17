@@ -1,3 +1,4 @@
+#labels Featured
 = Why Not Use ccache shipped with Cygwin ? =
 
 `cygwin1.dll` layer brings overheads, and we need install huge `Cygwin` distribution even if we just want use `ccache` under `MinGW` or `vxWorks`.
